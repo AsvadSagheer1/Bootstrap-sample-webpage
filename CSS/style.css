@@ -76,3 +76,23 @@ body{
 .bg-img-3{
     background-image: url(../images/carousel-3.jpg);
 }
+.section-7{
+    background-color: #788a7c;
+}
+.green-text{
+    color: #6ed198;
+}
+.btn-sec-7{
+    color: white;
+    border: 1px solid white;
+    padding: 5px 0;
+    width: 350px;
+    background-color: transparent;
+}
+.btn-sec-7:hover{
+    color: #6c757d;
+    border: 1px solid #6c757d;
+    padding: 5px 0;
+    width: 350px;
+    background-color: white;
+}
