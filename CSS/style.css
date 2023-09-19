@@ -96,3 +96,33 @@ body{
     width: 350px;
     background-color: white;
 }
+
+#section-9{
+    background-color: #788a7c;
+}
+
+#fb-icon{
+width: 35px;
+height: 35px;
+background-color: transparent;
+border: 1.5px solid white;
+border-radius: 50%;
+color: white;
+font-size: 18px;
+}
+#section-9 input{
+    border: none !important;
+    border-radius: 0;
+}
+
+#section-9 textarea{
+    border: none !important;
+    border-radius: 0;
+    resize: none;
+}
+#section-9 button{
+    background-color: #6ed198;
+    color: white;
+    padding: 7px 30px;
+    border: none;
+}
